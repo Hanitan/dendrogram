@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/dendrogram/static/js/main.6806eee1.chunk.js",
+    "main.js.map": "/dendrogram/static/js/main.6806eee1.chunk.js.map",
+    "runtime-main.js": "/dendrogram/static/js/runtime-main.327f2b59.js",
+    "runtime-main.js.map": "/dendrogram/static/js/runtime-main.327f2b59.js.map",
+    "static/js/2.4abd6edc.chunk.js": "/dendrogram/static/js/2.4abd6edc.chunk.js",
+    "static/js/2.4abd6edc.chunk.js.map": "/dendrogram/static/js/2.4abd6edc.chunk.js.map",
+    "index.html": "/dendrogram/index.html",
+    "precache-manifest.7db7a44e671d42e412aed5b98ce38f0a.js": "/dendrogram/precache-manifest.7db7a44e671d42e412aed5b98ce38f0a.js",
+    "service-worker.js": "/dendrogram/service-worker.js",
+    "static/js/2.4abd6edc.chunk.js.LICENSE.txt": "/dendrogram/static/js/2.4abd6edc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.327f2b59.js",
+    "static/js/2.4abd6edc.chunk.js",
+    "static/js/main.6806eee1.chunk.js"
+  ]
+}
